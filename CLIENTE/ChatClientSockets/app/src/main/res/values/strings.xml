@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatClient-Sockets</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="name">Name</string>
+    <string name="establecer_nombre">Establecer nombre</string>
+</resources>
